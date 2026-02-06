@@ -35,7 +35,7 @@
 
 	\new Staff
 
-\transpose b a {
+\transpose b b {
  \relative c' {
 	\numericTimeSignature
 	\hide Staff.TimeSignature 
