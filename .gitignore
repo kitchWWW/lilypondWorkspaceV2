@@ -1,0 +1,17 @@
+*.DS_Store
+.metadata*
+*.pdf
+*.midi
+*.mp3
+*.mp4
+*.docx
+*.png
+*.wav
+*.zip
+*.jpg
+*.pptx
+*.pyc
+__pycache__/
+pythonjunk/
+pyvenv.cfg
+.claude/
